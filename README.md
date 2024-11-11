@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harvey</h1>
 <h3 align="center">Learning to make games</h3>
 
-- 🔭 I’m currently working on [Dino Run](https://github.com/HarveyK1/Dino-Run/tree/main)
+- 🔭 I’m currently working on [Game Engine](https://github.com/HarveyK1/Game-Engine/tree/main)
 
 - 🌱 I’m currently learning **C++ and git/github**
 
